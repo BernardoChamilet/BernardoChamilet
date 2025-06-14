@@ -1,6 +1,5 @@
- 👋 Hi, I’m @BernardoChamilet
- 👀 I’m interested in backend development
- 🌱 I’m currently pursuing Sistemas de Informação at the Universidade Federal do Rio Grande
+ 👋 Hi, I’m @BernardoChamilet.
+ 🌱 I’m currently pursuing Sistemas de Informação at the Universidade Federal do Rio Grande.
 
 
 <!---
