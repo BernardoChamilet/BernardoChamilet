@@ -1,8 +1,8 @@
  👋 Hi, I’m @BernardoChamilet.
  🌱 I’m currently pursuing Sistemas de Informação at the Universidade Federal do Rio Grande.
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellamasutti&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoChamilet&layout=compact)
 <p align="left">
-  <img src="https://golang.org/doc/gopher/frontpage.png" alt="Go Gopher" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
