@@ -4,7 +4,7 @@
   <br>
   Feel free to reach out or connect with me!
   <br>
-  <a href="www.linkedin.com/in/bernardo-boggione-chamilet-95a360314/">
+  <a href="https://www.linkedin.com/in/bernardo-boggione-chamilet-95a360314/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bernardoboggionechamilet@gmail.com">
