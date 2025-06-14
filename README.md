@@ -4,10 +4,10 @@
   <br>
   Feel free to reach out or connect with me!
   <br>
-  <a href="https://www.linkedin.com/in/your-username/">
+  <a href="www.linkedin.com/in/bernardo-boggione-chamilet-95a360314/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:bernardoboggionechamilet@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
  </p>
